@@ -1,0 +1,434 @@
+.nav-header{
+  background-color: #F7F5EB;
+  padding-bottom: 100px;
+}
+.top-area{
+  border-bottom: 1px solid;
+  border-color:#e5eaee;
+  background-color: #F7F5EB;
+}
+.bar-menu ul{
+  padding: 0;
+  margin: -4px 0px 0px -23px;
+}
+.bar-menu  ul li{
+  list-style: none;
+  display: inline-block;
+  margin: 15px 30px 0px 3px;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ramabhadra', sans-serif;
+}
+.mail i {
+  margin-left: -24px;
+}
+.bar-menus ul{ 
+  margin: -4px -20px -2px 0px;
+}
+.navbar-nav>li>.dropdown-menu {
+  margin-top: -15px;
+}
+.bar-menus li{
+  list-style: none;
+  display: inline-block;
+  margin: -3px 16px 7px 0px;
+  font-size: 14px;
+  font-weight: 600;
+}
+.top-bar-menu{
+  text-align: right;
+  margin-top: 3px;
+}
+.header-icon li i{ 
+  font-weight: bold;
+}
+.header-icon li  i:hover{
+ color: #80b500;
+ font-weight: bold;
+}
+ .bar-menu ul li i{
+ color: #80b500;
+ margin-right: 9px;
+}
+.drop-menu .fa-long-arrow-down{
+    color: #80b500;
+  padding-left: 7px;
+  position: relative;
+}
+.dropbtn {
+  color: black;
+  padding: 17px 0px 10px 0px;
+  margin-right: -71px;
+  background-color:transparent;
+  font-weight: 700;
+  font-family: 'Ramabhadra', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+.dropbtn {
+  list-style: none;
+  margin-left: -225px;
+  padding: 21px 0px 0px 0px;
+  background-color: transparent;
+  border: none;
+  font-size: 14px; 
+}
+.open>.dropdown-menu {
+  display: block;
+  text-align: left;
+  margin: 5px 0px 0px -157px;
+  font-size: 16px;
+  color: black;
+  border: none;
+}
+.open>.dropdown-menu li {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+.open>.dropdown-menu li a:hover{
+  color: #80b500;
+  background-color: transparent;
+}
+.dropdown:hover .dropbtn {color: #80b500;}
+  .site-logo{
+    margin-top: 32px;
+    margin-left: -21px;
+}
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    margin: 0px 74px 0px 0px;
+  }
+  .quota{
+    position: relative;
+    display: inline-block;
+    margin-left: 0px;
+  }
+  .dropdown-large {
+    position: static !important;
+  }
+  .dropdown-menu-large {
+    margin-left: 16px;
+    margin-right: 16px;
+    padding: 20px 0px;
+  }
+  .dropdown-menu-large > li > ul {
+    padding: 0;
+    margin: 0;
+  }
+  .dropdown-menu-large > li > ul > li {
+    list-style: none;
+  }
+  .dropdown-menu-large > li > ul > li > a {
+    display: block;
+    margin: 18px 0px 0px 7px;
+    padding: 0px 25px;
+    clear: both;
+    font-weight: 300;
+    line-height: 1.428571429;
+    color: #333333;
+    white-space: normal;
+  }
+  .dropdown-menu-large > li ul > li > a:hover,
+  .dropdown-menu-large > li ul > li > a:focus {
+      text-decoration: none;
+  color:#80b500;
+  }
+  .contact{
+    font-weight: 700;
+    font-size: 15px;
+    list-style: none;
+    margin: -34px 0px 0px -15px;
+    font-family: 'Rajdhani', sans-serif;
+    font-size:15px;
+    font-weight: bold;
+  }
+  .buton{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Rajdhani', sans-serif;
+    list-style-type: none;
+    background-color: #80b500;
+  border: none;
+  color: white;
+  padding: 12px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: -35px 0px 0px 120px;
+  cursor: pointer;
+  }
+    .buton:hover{
+        background-color:green;
+    }
+    .nav {
+      padding-left: 91px;
+      list-style: none;
+  } 
+  .navbar-default {
+    background-color:#F7F5EB;
+    border: none;
+}
+.navbar-nav>li>a {
+  padding-top: 39px;
+  padding-bottom: 15px;
+  margin-left: -98px;
+  padding-left: 44px;
+}
+.navbar-default .navbar-nav>li>a {
+  color: rgb(5, 5, 5);
+  font-family: 'Rajdhani', sans-serif;
+  font-size:15px;
+  font-weight: bold;
+}
+.navbar {
+     border-radius: none;
+}
+.fa-plus {
+  font-size: 9px;
+  font-weight: 900;
+  padding-left: 3px;
+}
+  .drop-down {
+      position: relative;
+      display: inline-block;
+      margin: 0px 0px 0px 0px;
+    }
+    .icon,.cart{
+      position: relative;
+      display: inline-block;
+      margin-left: 2px;
+    }
+    .icons,.icon-user,.iconss{
+      font-weight: 700;
+      list-style-type: none;
+      background-color: white;
+      border: none;
+      color: black;
+      padding: 14px 0px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      margin: -48px 0px 0px 540px;
+      cursor: pointer;
+      height: 46px;
+      width: 50px;
+    }
+    .icons i{
+  font-size:18px;
+    }
+    .icon-user{
+      margin: -70px 0px 0px 780px;
+    font-size:18px;
+    }
+  .iconss{
+      padding: 18px 8px;
+      margin-top: -69px;
+      margin-left: 785px;
+    }
+    .icons:hover,.icon-user:hover,.iconss:hover{
+      color: white;
+      background-color: #80b500;
+    }
+    .iconss i{
+      font-size: 20px; 
+    }
+    sup {
+      top: -1.5em;
+      left: 0.5em;
+      font-weight: 700;
+      font-size: 12px;
+  }
+  .header-icon li i{
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: -5px;
+  }
+  .header-menu {
+     margin: -67px 0px 0px 310px;
+  }
+  .mobile-whishlist{
+    display: none;
+  }
+  .list {
+    margin-top:10px;
+  }
+  .list a{background-color: #F7F5EB;
+    color: black;
+    padding: 0px 64px 7px 12px;
+    border-bottom: 1px dashed lightgray;
+    text-decoration: none;
+   }
+   .open>.dropdown-menu {
+    display: block;
+    padding: 0px 60px 15px 0px;
+    text-align: left;
+    border: none;
+    margin: 0px 0px 0px 50px;
+    border-top: 5px solid #80b500;
+    font-family: 'Ramabhadra', sans-serif;
+}
+#cart{
+  display: block;
+  margin:10px;
+}
+#about{
+  margin-left:121px;
+}
+#shop{
+  margin-left:215px;
+}
+#news{
+  margin-left:300px
+}
+#pages{
+  margin: 3px -6px 0px -322px;
+    padding: 24px 0px 0px 0px;
+}
+#pages .list a{
+  padding: 6px 90px 6px 11px;
+}
+.about  li ul li a{
+  padding:3px;
+}
+.about li ul{
+  margin-left:10px;
+}
+.navbar-default .navbar-toggle {
+  margin-right: 34px;
+  margin-top: 48px;
+  color: white;
+}
+.top-bar-menu .dropdown-menu {
+  margin: 9px 0px 0px -94px;
+   border-top: 5px solid white; 
+}
+.open .dropdown-menu li a:hover{
+  color:#80b500;
+  background-color: none;
+}
+.menu img{
+  width: 340%;
+    background-color: #F7F5EB;
+    margin: -5px 0px 25px 0px;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-weight: 400;
+  }
+  .dropdown-content a:hover {
+      color:#80b500;
+      text-decoration: none;
+  }
+  .dropdown:hover .dropdown-content {display: block;}
+  .dropdown:hover .dropbtn {color: #80b500;}
+  .drop-down:hover  {display: block;color: #80b500;}
+  .icon-user{
+    color: black;
+  }
+  .sidebar-logo{
+    display:none;
+  }
+  .close{
+    display:none;
+  }
+  .navbar-default
+   .navbar-collapse, 
+   .navbar-default
+    .navbar-form {
+    display: none;
+}
+.navbar-default 
+.navbar-nav>.open>a,
+ .navbar-default 
+ .navbar-nav>.open>a:hover,
+  .navbar-default 
+  .navbar-nav>.open>a:focus {
+  color: rgb(8, 8, 8);
+  background-color: transparent;
+}
+.logo{
+  display:none;
+}
+.social-media{
+  display:none
+}
+.social-media li{
+  display:none
+}
+.font-list{
+  display:none;
+} 
+  
+
+/* body {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+} */
+.menu {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  padding: 0;
+}
+.line {
+  fill: none;
+  stroke: black;
+  stroke-width: 6;
+  transition: stroke-dasharray 600ms cubic-bezier(0.4, 0, 0.2, 1),
+    stroke-dashoffset 600ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.line1 {
+  stroke-dasharray: 60 207;
+  stroke-width: 6;
+}
+.line2 {
+  stroke-dasharray: 60 60;
+  stroke-width: 6;
+}
+.line3 {
+  stroke-dasharray: 60 207;
+  stroke-width: 6;
+}
+.opened .line1 {
+  stroke-dasharray: 90 207;
+  stroke-dashoffset: -134;
+  stroke-width: 6;
+}
+.opened .line2 {
+  stroke-dasharray: 1 60;
+  stroke-dashoffset: -30;
+  stroke-width: 6;
+}
+.opened .line3 {
+  stroke-dasharray: 90 207;
+  stroke-dashoffset: -134;
+  stroke-width: 6;
+}
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+ 
+ 

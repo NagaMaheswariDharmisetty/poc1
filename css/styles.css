@@ -1,0 +1,39 @@
+.bar-menu ul{
+  padding: 0;
+    margin: 0;
+}
+.bar-menu li{
+  list-style: none;
+    display: inline-block;
+    margin: 0 30px 0 0;
+    font-size: 14px;
+    font-weight: 700;
+}
+.top-bar-right{
+  text-align: right!important
+}
+.drop-menu{
+  display: inline-block;
+    text-align: left;
+}
+.drop-menu{
+  margin-bottom: 0px;
+}
+.fa-long-arrow-down{
+ color: #80b500;
+}
+.drop-menu ul{
+  top: 100%;
+    opacity: 1;
+    visibility: visible;
+}
+.drop-down li ul {
+  min-width: 200px;
+}
+.drop-menu  li ul li {
+  display: block;
+  padding: 5px 15px;
+  font-size: 16px;
+  color: var(--ltn__paragraph-color);
+  font-weight: 500;
+}

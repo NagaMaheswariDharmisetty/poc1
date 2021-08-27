@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+}
+.heading{
+background: rgb(12,17,234);
+			background: linear-gradient(90deg, rgba(12,17,234,1) 0%, rgba(24,157,198,1) 35%, rgba(0,255,67,1) 100%);
+			color: white;
+			padding: 15px;
+		}
+		li{
+			display: inline;
+		}
+		.right{
+			float: right;
+			padding:5px;
+			padding-right: 35px;
+		}
